@@ -38,7 +38,7 @@ source: Poesías
 - ¡Yo salvaré mi nombre del olvido!
 - ¡Yo lucharé por conquistarte un lauro!
 
-## Footnotes
+## Notas al pie
 [^fn1]: En _Grupo de familia_, el poema aparece dedicado a otra poeta cubana modernista: Mercedes Matamoros. 
 [^fn2]: Este signo de exclamación no aparece en la versión del poema publicada en _Grupo de familia_; sin embargo, en esa versión, Borrero añade un signo de exclamación en el último verso de la segunda estrofa, que no aparece en la versión de _Rimas_. 
 [^fn3]: En _Grupo de familia_ aparece este verso: "Cuando a veces me agobia el desaliento".
