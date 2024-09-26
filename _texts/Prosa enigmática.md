@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: Poem
 title: "Prosa enigmática"
 author: Juana Borrero
 editor: Luis Prieto
