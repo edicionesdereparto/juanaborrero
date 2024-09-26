@@ -16,6 +16,7 @@ source: Poesías
 - No dejéis que el vendaval lo tronche ni alarguéis para tocarlo las manos corporales....
 - Su contacto lo dehojaria enseguida, y desprovisto de sus pétalos ¿dónde irá su aroma...? ¿Qué haréis de la flor sin fragancia....? 
 - Sed bastante puros para no reclamar jamás vuestros derechos....!
+- 
 - {:.indent-10}(He dicho.)
 - {:.indent-5}_La pureza vigilando al amor_
 - Creación SIMBOLISTA.
