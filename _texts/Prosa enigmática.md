@@ -26,5 +26,4 @@ source: Poesías
 - {:.indent-10}Su Yvonne[^fn1].
 
 ## Footnotes
-
-- [^fn1]:Juana Borrero firmaba con este pseudónimo algunas cartas y poemas para su novio Carlos Pío Uhrbach, poeta y mambí que murió en 1897 por la independencia de Cuba.
+[^fn1]:Juana Borrero firmaba con este pseudónimo algunas cartas y poemas para su novio Carlos Pío Uhrbach, poeta y mambí que murió en 1897 por la independencia de Cuba.
