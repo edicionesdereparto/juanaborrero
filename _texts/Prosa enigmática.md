@@ -6,7 +6,7 @@ editor: Luis Prieto
 source: Poesías 
 ---
 
-- ...Las _madonas se mueren en las habitaciones cerradas......... los lirios se marchitan en el ambiente de _las alcobas_....
+...Las _madonas se mueren en las habitaciones cerradas......... los lirios se marchitan en el ambiente de _las alcobas_....
 No privéis a las vírgenes del libre ambiente ni arranquéis a los lirios de su tallo....
 Sed bastante grandes para romper con la tradición grosera impuesta por _la costumbre_............
 ¡Cuidad del alma! ¿Para qué más? Amad, sed amados... para qué más?...
@@ -16,13 +16,13 @@ Cuidad el jazmín que se os entrega.
 No dejéis que el vendaval lo tronche ni alarguéis para tocarlo las manos corporales....
 Su contacto lo dehojaria enseguida, y desprovisto de sus pétalos ¿dónde irá su aroma...? ¿Qué haréis de la flor sin fragancia....? 
 Sed bastante puros para no reclamar jamás vuestros derechos....!
-{:.indent-10} (He dicho.)
-{:.indent-5} _La pureza vigilando al amor_
+{:.indent-10}(He dicho.)
+{:.indent-5}_La pureza vigilando al amor_
 Creación SIMBOLISTA.
-{:.indent-7} Dedicada al dueño de
+{:.indent-7}Dedicada al dueño de
 mi corazón, a mi bardo, a mi rey,
 a mi ideal, a mi amado, _a mi Carlos!_
-{:.indent-10} Su Yvonne[^fn1].
+{:.indent-10}Su Yvonne[^fn1].
 
 ## Footnotes
 
