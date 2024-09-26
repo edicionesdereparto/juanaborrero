@@ -5,7 +5,7 @@ author: Juana Borrero
 editor: Luis Prieto 
 source: Poesías 
 ---
--1894[^fn1]
+- 1894[^fn1]
 
 - {:.indent-2} Escuchando tu acento cariñoso 
 - Mi corazón sensible se estremece 
