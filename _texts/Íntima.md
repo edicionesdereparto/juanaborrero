@@ -16,4 +16,6 @@ source: Poesías
 - Detente allí junto al abismo, y llora
 - como se llora al borde de las tumbas![^fn1]
 
+## Footnotes
+
 - [^fn1]: Este poema se publicó posthumamente en el número que dedicó _El Fígaro_ a la muerte de Juana Borrero en 1896. 
