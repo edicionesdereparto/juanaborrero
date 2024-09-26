@@ -27,4 +27,4 @@ Que no pueda romper sino la muerte!
 
 ## Footnotes 
 
-[^fn1] Este poema, dedicado a la poeta puertorriqueña Lola Rodríguez de Tió, lo publicó _El Fígaro_ el 26 de diciembre de 1894. 
+[^fn1]: Este poema, dedicado a la poeta puertorriqueña Lola Rodríguez de Tió, lo publicó _El Fígaro_ el 26 de diciembre de 1894. 
