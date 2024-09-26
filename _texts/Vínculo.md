@@ -4,7 +4,7 @@ title: Vínculo
 author: Juana Borrero 
 editor: Luis Prieto 
 source: Poesías 
-
+---
 -1894[^fn1]
 
 - {:.indent-2} Escuchando tu acento cariñoso 
