@@ -1,30 +1,44 @@
 ---
 layout: poem
-title: Delayed till she had ceased to know
-author: Emily Dickinson
-editor: Alex Gil
-source: "Bartleby.com"
+title: El ideal
+author: Juana Borraro
+editor: Luis Prieto 
+source: Poesías 
 ---
 
-- DELAYED till she had ceased to know,
-- Delayed till in its vest of snow
-- {:.indent-2}Her loving bosom lay.
-- An hour behind the fleeting breath,
-- Later by just an hour than death,—
-- {:.indent-2}Oh, lagging yesterday!
+- 1893[^fn1]
 
+- ¡Yo lo siento en mi alma!... El me reanima
+- Y me presta el color del entusiasmo,
+- El me muestra a lo lejos, siempre verde
+- Laurel inmascerible y codiciado![^fn2]
 
-- Could she have guessed that it would be;
-- Could but a crier of the glee	
-- {:.indent-2}Have climbed the distant hill;
-- Had not the bliss so slow a pace,—
-- Who knows but this surrendered face
-- {:.indent-2}Were undefeated still?
+- El inspiró los cánticos fugaces
+- Do rimé mis primeros desengaños,
+- El me conduce ahora sonriente
+- Por la senda difícil del trabajo.
 
+- Cuando a veces me postra el desaliento [^fn3]
+- O la nostalgia ardiente del pasado,
+- El me ilumina un porvenir glorioso[^fn4]
+- Con el fulgor benéfico de un astro.
 
-- Oh, if there may departing be
-- Any forgot by victory
-- {:.indent-2}In her imperial round,
-- Show them this meek apparelled thing,
-- That could not stop to be a king,
-- {:.indent-2}Doubtful if it be crowned!
+- Donde quiera me lleve he de seguirle
+- Y aunque deba morir en suelo extraño
+- Yo cruzaré tras el siempre serena
+- La inmensidad grandiosa del Oceano.
+
+- ¡Oh patria! Si la muerte inexorable
+- No me detiene con su helada mano
+- En mitad de la senda peligrosa
+- A donde en pos de mi ideal me lanzo,
+
+- Tu recuerdo que siempre irá conmigo
+- Me dará nuevo ardor ante el obstáculo.
+- ¡Yo salvaré mi nombre del olvido!
+- ¡Yo lucharé por conquistarte un lauro!
+
+- [^fn1]: En _Grupo de familia_, el poema aparece dedicado a otra poeta cubana modernista: Mercedes Matamoros. 
+- [^fn2]: Este signo de exclamación no aparece en la versión del poema publicada en _Grupo de familia_; sin embargo, en esa versión, Borrero añade un signo de exclamación en el último verso de la segunda estrofa, que no aparece en la versión de _Rimas_. 
+- [^fn3]: En _Grupo de familia_ aparece este verso: "Cuando a veces me agobia el desaliento".
+- [^fn4]: En _Grupo de familia_ aparece este verso: "El me ilumina un porvenir de gloria". 
