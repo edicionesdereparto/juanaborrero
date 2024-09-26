@@ -1,4 +1,4 @@
-**---**
+--
 layout: poem
 title:  Vínculo 
 author: Juana Borrero 
