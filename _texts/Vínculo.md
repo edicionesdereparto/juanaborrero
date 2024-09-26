@@ -25,6 +25,6 @@ source: Poesías
 - Uniéndote a mi ser con unos lazos 
 - Que no pueda romper sino la muerte! 
 
-## Footnotes 
+## Nota al pie 
 
 [^fn1]: Este poema, dedicado a la poeta puertorriqueña Lola Rodríguez de Tió, lo publicó _El Fígaro_ el 26 de diciembre de 1894. 
