@@ -23,4 +23,4 @@ mi corazón, a mi bardo, a mi rey,
 a mi ideal, a mi amado, _a mi Carlos!_
 {:.indent-10} Su Yvonne[^fn1].
 
-[^fn1] Juana Borrero firmaba con este pseudónimo algunas cartas y poemas para su novio Carlos Pío Uhrbach, poeta y mambí, que murió entre fiebres en la manigua, luchando contra el ejército español, en 1897. El manuscrito de este texto aparece acompañado por un sofistifado dibujo. 
+[^fn1] Juana Borrero firmaba con este pseudónimo algunas cartas y poemas para su novio Carlos Pío Uhrbach, poeta y mambí, que murió entre fiebres en la manigua, luchando contra el ejército español, en 1897. El manuscrito de este texto aparece acompañado por un sofisticado dibujo. 
