@@ -1,9 +1,9 @@
 ---
-layout:  poem
-title:   Vínculo 
-author:  Juana Borrero 
-editor:  Luis Prieto 
-source:  Poesías 
+layout: poem
+title:  Vínculo 
+author: Juana Borrero 
+editor: Luis Prieto 
+source: Poesías 
 ---
 
 1894[^fn1]
