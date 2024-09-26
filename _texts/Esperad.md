@@ -34,6 +34,5 @@ source: Poesías
 - En conmover vuestros sagrados restos!
 
 ## Footnotes
-
-- [^fn1]: Este poema aparece en _Rimas_ dedicado al poeta Diego Vicente Tejera (1848-1903),  quien estuvo involucrado en las luchas independentistas de Cuba y Puerto Rico a fines del siglo XIX.
+[^fn1]: Este poema aparece en _Rimas_ dedicado al poeta Diego Vicente Tejera (1848-1903),  quien estuvo involucrado en las luchas independentistas de Cuba y Puerto Rico a fines del siglo XIX.
 
