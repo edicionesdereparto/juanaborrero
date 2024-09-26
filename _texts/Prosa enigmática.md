@@ -27,4 +27,4 @@ source: Poesías
 
 ## Footnotes
 
-- [^fn1]:Juana Borrero firmaba con este pseudónimo algunas cartas y poemas para su novio Carlos Pío Uhrbach, poeta y mambí que murió en 1897 por la independencia de Cuba. El manuscrito de este texto aparece acompañado por un sofistifado dibujo. 
+- [^fn1]:Juana Borrero firmaba con este pseudónimo algunas cartas y poemas para su novio Carlos Pío Uhrbach, poeta y mambí que murió en 1897 por la independencia de Cuba.
