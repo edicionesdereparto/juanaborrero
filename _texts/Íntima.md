@@ -6,12 +6,12 @@ editor: Luis Prieto
 source: Poesías
 ---
 
-- {:.indent-1} ¿Quieres sondear la noche de mi espíritu? 
+- {:.indent-2} ¿Quieres sondear la noche de mi espíritu? 
 - Allá en el fondo oscuro de mi alma
 - Hay un lugar donde jamás penetra
 - La clara luz del sol de la esperanza.
 
-- {:.indent-1} ¡Pero no me preguntes lo que duerme
+- {:.indent-2} ¡Pero no me preguntes lo que duerme
 - bajo el sudario de la sombra muda...
 - Detente allí junto al abismo, y llora
 - como se llora al borde de las tumbas![^fn1]
