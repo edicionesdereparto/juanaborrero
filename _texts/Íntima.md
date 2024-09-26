@@ -17,4 +17,4 @@ source: Poesías
 - como se llora al borde de las tumbas![^fn1]
 
 ## Nota al pie
-[^fn1]: Este poema se publicó posthumamente en el número que dedicó _El Fígaro_ a la muerte de Juana Borrero en 1896. 
+[^fn1]: Este poema se publicó postumamente en el número que dedicó _El Fígaro_ a la muerte de Juana Borrero en 1896. 
