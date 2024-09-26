@@ -25,5 +25,5 @@ source: Poesías
 - a mi ideal, a mi amado, _a mi Carlos!_
 - {:.indent-10}Su Yvonne[^fn1].
 
-## Footnotes
+## Nota al pie
 [^fn1]:Juana Borrero firmaba con este pseudónimo algunas cartas y poemas para su novio Carlos Pío Uhrbach, poeta y mambí que murió en 1897 por la independencia de Cuba.
