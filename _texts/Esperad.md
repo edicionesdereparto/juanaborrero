@@ -6,27 +6,27 @@ editor: Luis Prieto
 source: Poesías
 ---
 
-- Descansan en el seno de la patria
+- {:.indent-4} Descansan en el seno de la patria
 - Que con valor heroico defendieron
 - Oponiendo los pechos generosos
 - Del enemigo al sanguinario acero!
 
-- Quizás nos culpan de mirar pasivos
+- {:.indent-4} Quizás nos culpan de mirar pasivos
 - La agonizante convulsión de un pueblo,
 - Que pugna en vano por romper el yugo
 - Que lo mantiene, a su pesar, sujeto!
 
-- Quizás ¡baldón mortal! nos juzgan cómplices
+- {:.indent-4} Quizás ¡baldón mortal! nos juzgan cómplices
 - Del tirano, vencidos por el miedo,
 - Y al hijo espúrio de la mártir Cuba
 - Fulminan ya, terrible su desprecio!
 
-- Nuestros hermanos los que sufren vivos,
+- {:.indent-4} Nuestros hermanos los que sufren vivos,
 - ¿Por siempre ¡ay! siempre gemirán abyectos?
 - ¿Será para el país que defendisteis
 - Estéril ¡ay! el sacrificio vuestro?...
 
-- ¡No es posible! ¡Esperad! ¡quizá no tarde
+- [:.indent-4} ¡No es posible! ¡Esperad! ¡quizá no tarde
 - De la batalla entre el confuso estruendo
 - De ¡Libertad! el anhelado grito
 - En conmover vuestros sagrados restos!
