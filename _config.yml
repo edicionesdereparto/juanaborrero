@@ -9,7 +9,7 @@ baseurl:             '/juana'
 # About/contact
 author:              "Juana Borrero"
   name:              "Luis Prieto" 
-  url:               
+  url:               "https://eluispr.github.io/juana"
   email:             "lpriet9@gmail.com"
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
