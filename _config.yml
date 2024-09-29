@@ -13,7 +13,7 @@ author:              "Juana Borrero"
   email:             "lpriet9@gmail.com"
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: "magenta" 
+color-scheme: "blue" 
 
 # Permalinks
 permalink: /:title/
