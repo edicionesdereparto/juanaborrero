@@ -1,6 +1,6 @@
 ---
 layout: Poem
-title:  Vínculo 
+title: Vínculo 
 author: Juana Borrero 
 editor: Luis Prieto 
 source: Poesías 
