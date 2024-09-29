@@ -1,19 +1,19 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               "Poesía de Juana Borrero"
-tagline:             "(1877-1896)" 
-description:         "Juana Borrero fue una pintora y poeta modernista cubana."
-baseurl:             "/juana"
+title:               Poesía de Juana Borrero
+tagline:             (1877-1896) 
+description:         Juana Borrero fue una pintora y poeta modernista cubana.
+baseurl:             '/juana'
 
 # About/contact
-author:              "Juana Borrero"
-  name:              "Luis Prieto" 
-  url:               "https://eluispr.github.io/juana"
-  email:             "lpriet9@gmail.com"
+author:              Juana Borrero
+  name:              Luis Prieto 
+  url:               https://eluispr.github.io/juana
+  email:             lpriet9@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: "blue" 
+color-scheme:  
 
 # Permalinks
 permalink: /:title/
