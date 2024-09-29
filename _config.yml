@@ -2,22 +2,20 @@
 
 # Setup
 title:               "Poesía de Juana Borrero"
-tagline:             (1877-1896) 
-description:         Juana Borrero fue una pintora y poeta modernista cubana. Vivió poco más de 18 años y creó numerosos cuadros y poemas. Hoy perduran principalmente sus poemas y unos pocos cuadros y dibujos. Oriunda de Santo Suárez, La Habana (entonces colonia española), en 1895 Juana emigró a Cayo Hueso, Florida por los lazos que su padre Esteban Borrero mantenía con la causa independentista cubana. Se dice, aunque no está comprobado, que Juana y su padre viajaron a Nueva York en 1892, y que José Martí organizó una cena en su honor, donde Juana leyó el poema "Esperad" en frente de combatientes exiliados cubanos, quizás compuesto para la ocasión. En 1894, se publicó en La Habana el poemario _Rimas_, que Rubén Darío describió como "el libro raro de las poesías de Juana Borrero".
-url:                 https://eluispr.github.io/juana/
+tagline:             "(1877-1896)" 
+description:         "Juana Borrero fue una pintora y poeta modernista cubana."
 baseurl:             '/juana'
 
 # About/contact
-author:              Juana Borrero
-  name:              Luis Prieto 
+author:              "Juana Borrero"
+  name:              "Luis Prieto" 
   url:               
-  email:             lpriet9@gmail.com
+  email:             "lpriet9@gmail.com"
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: 
+color-scheme: "magenta" 
 
 # Permalinks
-permalink: pretty
 permalink: /:title/
 
 # Set encoding to UTF-8
