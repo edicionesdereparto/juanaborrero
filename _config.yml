@@ -1,15 +1,15 @@
 # Site Metadata
-title: "Poesía de Juana Borrero"
-tagline: "(1877-1896)"
-description: "Una colección de los poemas y obras de Juana Borrero, pintora y poeta modernista cubana."
-baseurl: "/juana" # Make sure this matches your GitHub repository's name if applicable
-url: "https://eluispr.github.io"
+title:               "Poesía de Juana Borrero"
+tagline:             "(1877-1896)"
+description:         "Una colección de los poemas y obras de Juana Borrero, pintora y poeta modernista cubana."
+baseurl:             "/juana"
+url:                 "https://eluispr.github.io"
 
 # Author Information
 author:
-  name: "Luis Prieto"
-  url: "https://eluispr.github.io/juana"
-  email: "lpriet9@gmail.com"
+  name:              "Luis Prieto"
+  url:               "https://eluispr.github.io/juana"
+  email:             "lpriet9@gmail.com"
 
 # Theme Configuration
 remote_theme: "minicomp/ed"
@@ -35,7 +35,7 @@ permalink: pretty
 permalink: /:title/
 
 # Color scheme for the theme: red, orange, magenta, cyan, blue, brown
-color-scheme: "blue"
+color-scheme:
 
 # Exclusions from the build
 exclude:
