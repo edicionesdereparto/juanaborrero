@@ -2,7 +2,7 @@
 title:               "Poesía de Juana Borrero"
 tagline:             "(1877-1896)"
 description:         "Una colección de los poemas y obras de Juana Borrero, pintora y poeta modernista cubana."
-baseurl:             "/juana" # Adjust this to match your repository name
+baseurl:             "/juana"
 url:                 "https://eluispr.github.io"
 
 # Author Information
