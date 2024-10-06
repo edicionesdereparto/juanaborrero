@@ -1,57 +1,26 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Poesía de Juana Borrero</title>
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles.css">
-</head>
-<body>
-  <!-- Main Header Section -->
-  <header>
-    <h1>Poesía de Juana Borrero</h1>
-    <p class="tagline">(1877-1896)</p>
-  </header>
+---
+layout: default
+title: "Poesía de Juana Borrero"
+---
 
-  <!-- Introduction Section -->
-  <section class="introduction">
-    <h2>Sobre la autora</h2>
-    <p>
-      Juana Borrero fue una pintora y poeta modernista cubana. 
-      Vivió poco más de 18 años y creó numerosos cuadros y poemas. 
-      Hoy perduran principalmente sus poemas y unos pocos cuadros y dibujos. 
-      Oriunda de Santo Suárez, La Habana (entonces colonia española), en 1895 Juana emigró a Cayo Hueso, Florida por los lazos que su padre Esteban Borrero mantenía con la causa independentista cubana. 
-      Se dice, aunque no está comprobado, que Juana y su padre viajaron a Nueva York en 1892, y que José Martí organizó una cena en su honor, donde Juana leyó el poema "Esperad" en frente de combatientes exiliados cubanos, quizás compuesto para la ocasión. 
-      En 1894, se publicó en La Habana el poemario <i>Rimas</i>, que Rubén Darío describió como "el libro raro de las poesías de Juana Borrero". 
-      Los poemas de Juana Borrero también se publicaron en periódicos como <i>El Fígaro</i>, <i>Gris y azul</i>, <i>Cuba y América</i> y <i>La Habana Elegante</i>. 
-      Sus cartas y poemas fueron publicados en dos tomos separados, en la década de 1960, con lecturas y biografías preliminares de los críticos literarios Cintio Vitier y Fina García Marruz. 
-      Existen numerosos poemas, ensayos y obras acerca de la vida y leyenda de la niña prodigio, la artista melancólica y apasionada de una sensibilidad afinadamente moderna. 
-      Su vida y obra han seguido dando frutos en los siglos XX y XXI, tales como el álbum musical del artista contemporáneo Jan Poe, <i>Juana Borrero: La pasión del ensueño</i>. 
-      Aquí se compilan algunos de los poemas más emblemáticos de Juana Borrero. 
-    </p>
-  </section>
+<div class="introduction">
+  <h1>Sobre la autora</h1>
+  <p>
+    Juana Borrero fue una pintora y poeta modernista cubana. Vivió poco más de 18 años y creó numerosos cuadros y poemas. Hoy perduran principalmente sus poemas y unos pocos cuadros y dibujos. Oriunda de Santo Suárez, La Habana (entonces colonia española), en 1895 Juana emigró a Cayo Hueso, Florida por los lazos que su padre Esteban Borrero mantenía con la causa independentista cubana. Se dice, aunque no está comprobado, que Juana y su padre viajaron a Nueva York en 1892, y que José Martí organizó una cena en su honor, donde Juana leyó el poema "Esperad" en frente de combatientes exiliados cubanos, quizás compuesto para la ocasión. En 1894, se publicó en La Habana el poemario <i>Rimas</i>, que Rubén Darío describió como "el libro raro de las poesías de Juana Borrero". Los poemas de Juana Borrero también se publicaron en periódicos como <i>El Fígaro</i>, <i>Gris y azul</i>, <i>Cuba y América</i> y <i>La Habana Elegante</i>. Sus cartas y poemas fueron publicados en dos tomos separados, en la década de 1960, con lecturas y biografías preliminares de los críticos literarios Cintio Vitier y Fina García Marruz. Existen numerosos poemas, ensayos y obras acerca de la vida y leyenda de la niña prodigio, la artista melancólica y apasionada de una sensibilidad afinadamente moderna. Su vida y obra han seguido dando frutos en los siglos XX y XXI, tales como el álbum musical del artista contemporáneo Jan Poe, <i>Juana Borrero: La pasión del ensueño</i>. Aquí se compilan algunos de los poemas más emblemáticos de Juana Borrero.
+  </p>
+</div>
 
-  <!-- Divider -->
-  <hr>
+<hr>
 
-  <!-- Table of Contents Section -->
-  <section class="toc">
-    <h2>Poemas</h2>
-    <ul class="texts">
-      {% for item in site.texts %}
+<div class="toc">
+  <h2>Poemas</h2>
+  <ul class="texts">
+    {% for item in site.texts %}
       <li class="text-title">
         <a href="{{ site.baseurl }}{{ item.url }}">
           {{ item.title }}
         </a>
       </li>
-      {% endfor %}
-    </ul>
-  </section>
-
-  <!-- Footer Section -->
-  <footer>
-    <p>&copy; {{ site.time | date: '%Y' }} <a href="{{ site.author.url }}">{{ site.author.name }}</a></p>
-    <p>Contacto: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
-  </footer>
-</body>
-</html>
+    {% endfor %}
+  </ul>
+</div>
