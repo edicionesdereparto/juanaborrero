@@ -34,7 +34,7 @@ kramdown:
 permalink: "/:collection/:title/"
 
 # Color scheme for the theme: red, orange, magenta, cyan, blue, brown
-color-scheme: "blue"
+color-scheme: "red"
 
 # Plugins
 plugins:
