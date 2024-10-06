@@ -2,54 +2,59 @@
 title: "Poesía de Juana Borrero"
 tagline: "(1877-1896)"
 description: "Una colección de los poemas y obras de Juana Borrero, pintora y poeta modernista cubana."
-baseurl: "/juana"
+baseurl: "/juana" # Change this if your site is hosted on a subdirectory, otherwise set it to "/"
 
 # Author Information
-author:              
+author:
   name: "Luis Prieto"
   url: "https://eluispr.github.io/juana"
   email: "lpriet9@gmail.com"
 
-# Color Scheme Options: red, orange, magenta, cyan, blue, brown
+# Site theme color scheme: red, orange, magenta, cyan, blue, brown
 color-scheme: "blue"
 
 # Permalinks
-permalink: "/:title/"
+permalink: "/:collection/:title/" # Use collection-based structure
 
-# Site Encoding
+# Set encoding to UTF-8
 encoding: "utf-8"
 
-# Text Collections
+# Texts Collection
 collections:
   texts:
     output: true
     permalink: "/texts/:title/"
 
-# Markdown Processor and Settings
+# Markdown Processor
 markdown: kramdown
 
+# Kramdown Settings
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  footnote_backlink: "&#x21a9;&#xfe0e;"
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
+  footnote_backlink: "&#x21a9;&#xfe0e;"
   enable_coderay: false
 
-# Exclusions from the final build
+# Exclusions from build
 exclude:
-  - optional
   - vendor
-  - ed..gemspec
+  - optional
   - Gemfile
   - Gemfile.lock
+  - ed..gemspec
   - backstop_data
   - backstop.json
 
-# Theme Configurations
-# Uncomment this if using the Ed theme locally or on a custom server
-# theme: "ed."
+# Theme Configuration
+theme: "ed."
 
-# GitHub Deployments: Use this for deploying to GitHub Pages
-remote_theme: "minicomp/ed"
+# Remote Theme for GitHub Pages (Use only one of the following theme configurations)
+remote_theme: "minicomp/ed" # Use this if deploying on GitHub Pages
+
+# Plugins (Optional, can include any Jekyll plugins you're using)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
