@@ -1,61 +1,45 @@
 # Site Metadata
-title:               "Poesía de Juana Borrero"
-tagline:             "(1877-1896)"
-description:         "Una colección de los poemas y obras de Juana Borrero, pintora y poeta modernista cubana."
-baseurl:             "/juana" # Change this if your site is hosted on a subdirectory, otherwise set it to "/"
+title: "Poesía de Juana Borrero"
+tagline: "(1877-1896)"
+description: "Una colección de los poemas y obras de Juana Borrero, pintora y poeta modernista cubana."
+baseurl: "/juana" # Make sure this matches your GitHub repository's name if applicable
+url: "https://eluispr.github.io"
 
 # Author Information
 author:
-  name:              "Luis Prieto"
-  url:               "https://eluispr.github.io/juana"
-  email:             "lpriet9@gmail.com"
+  name: "Luis Prieto"
+  url: "https://eluispr.github.io/juana"
+  email: "lpriet9@gmail.com"
 
-# Site theme color scheme: red, orange, magenta, cyan, blue, brown
-color-scheme:        "blue"
+# Theme Configuration
+remote_theme: "minicomp/ed"
 
-# Permalinks
-permalink: pretty 
-permalink: "/:collection/:title/" # Use collection-based structure
-
-# Set encoding to UTF-8
-encoding: "utf-8"
-
-# Texts Collection
+# Text Collections Configuration
 collections:
   texts:
     output: true
     permalink: "/texts/:title/"
 
-# Markdown Processor
+# Markdown Processor and Options
 markdown: kramdown
 
-# Kramdown Settings
 kramdown:
   auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   footnote_backlink: "&#x21a9;&#xfe0e;"
   enable_coderay: false
 
-# Exclusions from build
+# Permalinks Configuration
+permalink: "/:collection/:title/"
+
+# Color scheme for the theme: red, orange, magenta, cyan, blue, brown
+color-scheme: "blue"
+
+# Exclusions from the build
 exclude:
   - vendor
-  - optional
   - Gemfile
   - Gemfile.lock
-  - ed..gemspec
   - backstop_data
   - backstop.json
-
-# Theme Configuration
-theme: "ed."
-
-# Remote Theme for GitHub Pages (Use only one of the following theme configurations)
-remote_theme: "minicomp/ed" # Use this if deploying on GitHub Pages
-
-# Plugins (Optional, can include any Jekyll plugins you're using)
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
