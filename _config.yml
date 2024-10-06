@@ -1,17 +1,17 @@
 # Site Metadata
-title: "Poesía de Juana Borrero"
-tagline: "(1877-1896)"
-description: "Una colección de los poemas y obras de Juana Borrero, pintora y poeta modernista cubana."
-baseurl: "/juana" # Change this if your site is hosted on a subdirectory, otherwise set it to "/"
+title:               "Poesía de Juana Borrero"
+tagline:             "(1877-1896)"
+description:         "Una colección de los poemas y obras de Juana Borrero, pintora y poeta modernista cubana."
+baseurl:             "/juana" # Change this if your site is hosted on a subdirectory, otherwise set it to "/"
 
 # Author Information
 author:
-  name: "Luis Prieto"
-  url: "https://eluispr.github.io/juana"
-  email: "lpriet9@gmail.com"
+  name:              "Luis Prieto"
+  url:               "https://eluispr.github.io/juana"
+  email:             "lpriet9@gmail.com"
 
 # Site theme color scheme: red, orange, magenta, cyan, blue, brown
-color-scheme: "blue"
+color-scheme:        "blue"
 
 # Permalinks
 permalink: "/:collection/:title/" # Use collection-based structure
