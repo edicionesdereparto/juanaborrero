@@ -3,7 +3,7 @@
 # Setup
 title:               Poesía de Juana Borrero
 tagline:             (1877-1896) 
-description:         Juana Borrero fue una pintora y poeta modernista cubana.
+description:       
 baseurl:             '/juana'
 
 # About/contact
@@ -13,7 +13,7 @@ author:
   email:             lpriet9@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:  
+color-scheme: "blue"  
 
 # Permalinks
 permalink: /:title/
