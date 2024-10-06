@@ -1,43 +1,62 @@
-# Site Metadata
-title:               "Poesía de Juana Borrero"
-tagline:             "(1877-1896)"
-description:         "Una colección de los poemas y obras de Juana Borrero, pintora y poeta modernista cubana."
-baseurl:             "/juana"
-url:                 "https://eluispr.github.io"
+# Built with Jekyll 3.6.0
 
-# Author Information
+# Setup
+title:               Ed.
+tagline:             'a jekyll theme for minimal editions'
+description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+url:                 'http://minicomp.github.io'
+baseurl:             '/ed'
+
+# About/contact
 author:
-  name:              "Luis Prieto"
-  url:               "https://eluispr.github.io/juana"
-  email:             "lpriet9@gmail.com"
+  name:              Alex Gil
+  url:               https://twitter.com/elotroalex
+  email:             colibri.alex@gmail.com
 
-# Theme Configuration
-remote_theme: "minicomp/ed"
+# Color scheme. Options: red, orange, magenta, cyan, blue, brown
+color-scheme:
 
-# Text Collections Configuration
+# Permalinks
+permalink: pretty
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts
 collections:
   texts:
     output: true
-    permalink: "/texts/:title/"
 
-# Markdown Processor and Options
+# Markdown specs
 markdown: kramdown
 
 kramdown:
-  auto_ids: true
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
   footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Permalinks Configuration
-permalink: "/:collection/:title/"
+# Exclusions from the final site
+exclude:
+  - optional
+  - vendor
+  - ed..gemspec
+  - Gemfile
+  - Gemfile.lock
+  - backstop_data
+  - backstop.json
 
-# Color scheme for the theme: red, orange, magenta, cyan, blue, brown
-color-scheme: "red"
+# Theme
+# (Used for local or custom-server deployments)
+# Uncomment the `theme` line if using the Ed. theme gem on your own computer or server.
+# See https://jekyllrb.com/docs/themes/
+# theme: "ed."
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-scholar
+# Remote Theme
+# (Used only for GitHub deployments)
+# See https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
+remote_theme: minicomp/ed
