@@ -1,44 +1,43 @@
-# Built with Jekyll 3.6.0
+# Site Metadata
+title: "Poesía de Juana Borrero"
+tagline: "(1877-1896)"
+description: "Una colección de los poemas y obras de Juana Borrero, pintora y poeta modernista cubana."
+baseurl: "/juana"
 
-# Setup
-title:               Poesía de Juana Borrero
-tagline:             (1877-1896) 
-description:       
-baseurl:             '/juana'
-
-# About/contact
+# Author Information
 author:              
-  name:              Luis Prieto 
-  url:               https://eluispr.github.io/juana
-  email:             lpriet9@gmail.com
+  name: "Luis Prieto"
+  url: "https://eluispr.github.io/juana"
+  email: "lpriet9@gmail.com"
 
-# Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: "blue"  
+# Color Scheme Options: red, orange, magenta, cyan, blue, brown
+color-scheme: "blue"
 
 # Permalinks
-permalink: /:title/
+permalink: "/:title/"
 
-# Set encoding to UTF-8
-encoding: utf-8
+# Site Encoding
+encoding: "utf-8"
 
-# Collections for texts
+# Text Collections
 collections:
   texts:
     output: true
+    permalink: "/texts/:title/"
 
-# Markdown specs
+# Markdown Processor and Settings
 markdown: kramdown
 
 kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
   footnote_backlink: "&#x21a9;&#xfe0e;"
-  toc_levels:     1..6
-  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Exclusions from the final site
+# Exclusions from the final build
 exclude:
   - optional
   - vendor
@@ -48,13 +47,9 @@ exclude:
   - backstop_data
   - backstop.json
 
-# Theme
-# (Used for local or custom-server deployments)
-# Uncomment the `theme` line if using the Ed. theme gem on your own computer or server.
-# See https://jekyllrb.com/docs/themes/
+# Theme Configurations
+# Uncomment this if using the Ed theme locally or on a custom server
 # theme: "ed."
 
-# Remote Theme
-# (Used only for GitHub deployments)
-# See https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
-remote_theme: minicomp/ed
+# GitHub Deployments: Use this for deploying to GitHub Pages
+remote_theme: "minicomp/ed"
