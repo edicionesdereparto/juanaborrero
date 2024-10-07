@@ -14,7 +14,7 @@ source: Poesías
 - Y el porvenir más amplio y luminoso. 
 
 - Al calor de tu pecho generoso 
-- como niebla sutil se desvanece 
+- Como niebla sutil se desvanece 
 - El tedio funeral que me entristece, 
 - Devolviendo a mi espíritu reposo. 
 
