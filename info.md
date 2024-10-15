@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Info
+title: Info.
 ---
 <h1 style="font-weight: bold; color: #990000;">Sobre la poesía de Juana Borrero</h1>    
 
