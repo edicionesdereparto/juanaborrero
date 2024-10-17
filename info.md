@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Info.
+title: Info
 ---
 <h1 style="font-weight: bold; color: #96305A;">Sobre la poeta</h1>    
 
