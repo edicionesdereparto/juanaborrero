@@ -1,7 +1,7 @@
 ---
 layout: poem
 title:  El ideal
-author: Juana Borraro
+author: Juana Borrero
 editor: Luis Prieto 
 source: Poesías 
 ---
