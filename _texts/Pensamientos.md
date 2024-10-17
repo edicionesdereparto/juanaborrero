@@ -17,5 +17,5 @@ source: Poesías
 <p>Lo demás es puro antropomorfismo o pura impertinencia.</p>
 
 ## Notas al pie 
-[^fn1] Según Fina García Marruz, este poema apareció en <i>El Fígaro</> en febrero de 1895, en un número dedicado a <i>La mujer en Cuba</i>. 
+[^fn1]: Según Fina García Marruz, este poema apareció en <i>El Fígaro</> en febrero de 1895, en un número dedicado a <i>La mujer en Cuba</i>. 
 
