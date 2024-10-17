@@ -6,7 +6,7 @@ editor: Luis Prieto
 source: Poesías
 ---
 <div>Yo he soñado en mis lúgubres noches,</div>
-<div>en mis noches lúgubres de penas y lágimas</div>
+<div>en mis noches lúgubres de penas y lágrimas</div>
 <div>con un beso de amor imposible,</div>
 <div>sin sed y sin fuego, sin fiebre y sin ansias.</div>
 <br>
