@@ -20,8 +20,6 @@ source: Poesías
 <div>cuando tú con tus labios me beses</div>
 <div>bésame sin fuego, sin fiebre y sin ansias</div>
 
-<br>
-
 <div>Dame el beso soñado en mis noches,</div>
 <div>en mis noches tristes de penas y lágrimas,</div>
 <div>que me deje una estrella en los labios</div>
