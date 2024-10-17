@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Íntima
+title: Última rima
 author: Juana Borrero
 editor: Luis Prieto 
 source: Poesías
@@ -9,16 +9,12 @@ source: Poesías
 <div>en mis noches lúgubres de penas y lágimas</div>
 <div>con un beso de amor imposible,</div>
 <div>sin sed y sin fuego, sin fiebre y sin ansias.</div>
-
 <br>
-
 <div>Yo no quiero el deleite que enerva,</div>
 <div>el deleite jadeante que abrasa,</div>
 <div>y me causan hastío infinito</div>
 <div>los labios sensuales que besan y manchan.</div>
-
 <br>
-
 <div>¡Oh mi amado! ¡mi amado imposible!,</div>
 <div>mi novio soñado de dulce mirada,</div>
 <div>cuando tú con tus labios me beses</div>
