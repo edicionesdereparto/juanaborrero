@@ -9,6 +9,6 @@ Juana Borrero (1877-1896) fue una pintora y poeta modernista cubana. Oriunda de 
 
 <h1 style="font-weight: bold; color: #800000;">Sobre el editor</h1>  
 
-<img src="{{ site.baseurl }}/assets/profile.jpg" alt="Juana Borrero" class="center" style="max-width: 300px; border-radius: 8px; margin: 20px auto; display: block;">
+<img src="{{ site.baseurl }}/assets/profile.png" alt="Juana Borrero" class="center" style="max-width: 300px; border-radius: 8px; margin: 20px auto; display: block;">
 
 Luis Prieto es estudiante de doctorado en la facultad de Español y Portugués en la Universidad Yale. 
