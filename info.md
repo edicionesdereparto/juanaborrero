@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Info
+title: Info. de la poeta y el editor
 ---
 <h1 style="font-weight: bold; color: #800000;">Sobre la poeta</h1>
 <img src="{{ site.baseurl }}/assets/fotojb.jpg" alt="Juana Borrero" style="max-width: 200; border-radius: 8; margin: 20 auto; display: block;">
@@ -13,6 +13,6 @@ Juana Borrero (1877-1896) fue una pintora y poeta modernista cubana. Oriunda de 
 
 <img src="{{ site.baseurl }}/assets/profile.png" alt="Luis Prieto" style="max-width: 200; border-radius: 8; margin: 20 auto; display: block;">
 
-Luis Prieto es estudiante de doctorado en la facultad de Español y Portugués en la Universidad Yale. 
+Luis Prieto es estudiante de doctorado en la facultad de Español y Portugués en la Universidad Yale. Su dirección personal de correo electrónico es lpriet9@gmail.com
 
 <small>Fotógrafo: Danni Rigual (2021)</small>
