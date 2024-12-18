@@ -15,4 +15,4 @@ Juana Borrero (1877-1896) fue una pintora y poeta modernista cubana. Oriunda de 
 
 Luis Prieto es estudiante de doctorado en la facultad de Español y Portugués en la Universidad Yale. Su dirección personal de correo electrónico es lpriet9@gmail.com
 
-<small>Fotógrafo: Danni Rigual (2021)</small>
+<small>Fotógrafo: Danni Rigual, 2021</small>
