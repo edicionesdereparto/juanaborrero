@@ -18,7 +18,7 @@ color-scheme:
 
 # Permalinks Configuration
 permalink: pretty
-permalink:           "/:collection/:title/" # Organize by collection and title
+permalink:           "/:juana/:poemas/" 
 
 # Site Encoding
 encoding:            "utf-8"
