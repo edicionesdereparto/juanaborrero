@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title:  Mi buen Doctor, no te canses...
+title: Mi buen Doctor, no te canses...
 author: Juana Borrero
 editor: Luis Prieto 
 source: Poesías 
