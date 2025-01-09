@@ -1,6 +1,6 @@
 ---
 layout: page
-title: De la poeta y el editor
+title: Info
 ---
 <h1 style="font-weight: bold; color: #800000;">De la poeta</h1>
 <img src="{{ site.baseurl }}/assets/fotojb.jpg" alt="Juana Borrero" style="text-align: center; max-width: 200px; border-radius: 8px; margin: 20px auto; display: block;">
