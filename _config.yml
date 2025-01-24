@@ -5,7 +5,7 @@ title:               "Poesía de Juana Borrero"
 tagline:             "(1877-1896)"
 description:         "Una colección de los poemas de Juana Borrero, pintora y poeta modernista cubana."
 url:                 "https://edicionesdereparto.github.io"
-baseurl:             "/juana" # Adjust to match your GitHub repository name if it's hosted in a subdirectory.
+baseurl:             "/juanaborrero" # Adjust to match your GitHub repository name if it's hosted in a subdirectory.
 
 # About/Contact Information
 author:
